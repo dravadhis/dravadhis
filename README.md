@@ -1,5 +1,5 @@
 # Shubham-Singh 👋
-I am a undergrad student 👨‍🎓 at School of Engineering, JNU pursuing B.tech. I am interested in Python Development, AI and Cybersecurity. I am fluent in Python and C. Currently I am trying (and looking for chances) to contribute to the Open Source Community. I like listening to :musical_note:songs, :books: reading novels (fictions mostly) and :metal: mangas.
+I am a undergrad student 👨‍🎓 at School of Engineering, JNU pursuing B.tech. I am interested in Python Development, AI and Cybersecurity. I am fluent in Python and C. Currently I am trying (and looking for chances) to contribute to the Open Source Community. I like listening to :musical_note:songs, :books: reading novels (fictions mostly) and :metal: reading mangas.
 
 <ul>
   <li> Pronouns: :smile: He/Him
