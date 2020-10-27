@@ -5,11 +5,13 @@
   <li> Pronouns: :smile: he/him/his
   <li> Currently trying to contribute to the :computer: Open Source Community
   <li> Also learning about Machine Learning/Deep Learning
-  <li> Reach me here:
+</ul>
+<h2>Reach me here</h2>
     
 <p>
 <a href="https://www.linkedin.com/in/shubham-singh-b056151b6/" target="blank"><img align="center" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="Shubham Singh" height="30" width="30" /></a>
 <a href="https://github.com/dravadhis" target="blank"><img align="center" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" height="30" width="30" /></a></p>
+
   
 </ul>
 
