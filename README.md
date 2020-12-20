@@ -18,12 +18,7 @@
 </ul>
 
 <h2> Skills </h2>
-<p><b>Programming Languages:</b> Python, C, Julia*, Java*, C++** <br></p>
-<p><b>Web Development:</b> MEAN Stack, Javascript, HTML, CSS, Bootstrap, Django**, React*, Angular* <br> </p>
-<p><b>Database:</b> MongoDB, Express, MySQL* <br> </p>
-<p><b>Others:</b> TensorFlow**, Metasploit**, Kali**, x86 Assembly**, Git, LateX, bash**, Linux Shell**, Docker**...omitted for the sake of brevity <br> </p>
-<p align=right><i>*Basic Proficiency, **Intermediate Proficiency </i></p>
-<hr>
+<p>Head to my <a href="">blog</a> to get an overview of my skills. </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dravadhis&show_icons=true" alt="dravadhis" /></p></td>
 <p align="center">
