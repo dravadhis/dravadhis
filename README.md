@@ -9,8 +9,8 @@
 <h2>Reach me here</h2>
     
 <p>
-<a href="https://www.linkedin.com/in/shubham-singh-b056151b6/" target="blank"><img align="center" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="Shubham Singh" height="30" width="30" /></a>
-<a href="https://github.com/dravadhis" target="blank"><img align="center" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shubham-singh-b056151b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Shubham Singh" height="30" width="30" /></a>
+<a href="https://github.com/dravadhis" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="30" /></a>
 <a href="https://shubhamsingh25.blogspot.com/p/about.html" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="Shubham Singh" height="40", width="40"/></a>
 </p>
 
