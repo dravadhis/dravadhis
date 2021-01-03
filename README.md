@@ -22,23 +22,23 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dravadhis&show_icons=true" alt="dravadhis" /></p></td>
 <p align="center">
-<img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" alt="AngularJs" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" alt="Atom" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/chrome/chrome-original.svg" alt="Chrome" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/devicon/devicon-original.svg" alt="Devicons" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" alt="Django" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" alt="jQuery" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="60" height="60"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJs" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Atom" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Devicons" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </p>
 <hr>
 
