@@ -18,7 +18,7 @@
 </ul>
 
 <h2> Skills </h2>
-<p>Head to my <a href="">blog</a> to get an overview of my skills. </p>
+<p>Head to my <a href="https://shubhamsingh25.blogspot.com/p/about.html">blog</a> to get an overview of my skills. </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dravadhis&show_icons=true" alt="dravadhis" /></p></td>
 <p align="center">
